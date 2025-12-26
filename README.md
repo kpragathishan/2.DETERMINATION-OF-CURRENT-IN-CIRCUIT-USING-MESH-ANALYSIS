@@ -39,7 +39,10 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+https://github.com/kpragathishan/2.DETER
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fa8d6056-60f0-478c-b462-75e654b10a36" />
+ADME.md
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
